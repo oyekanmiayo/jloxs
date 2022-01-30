@@ -1,7 +1,5 @@
 package lox;
 
-import com.sun.tools.corba.se.idl.StringGen;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -21,7 +19,7 @@ public class Scanner {
         keywords.put("else", TokenType.ELSE);
         keywords.put("false", TokenType.FALSE);
         keywords.put("for", TokenType.FOR);
-        keywords.put("FUNCTI", TokenType.FUNCTI);
+        keywords.put("functi", TokenType.FUNCTI);
         keywords.put("if", TokenType.IF);
         keywords.put("nil", TokenType.NIL);
         keywords.put("or", TokenType.OR);
