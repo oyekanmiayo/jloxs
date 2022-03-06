@@ -1,9 +1,5 @@
 package lox;
 
-import com.sun.deploy.security.ruleset.RunRule;
-
-import java.awt.*;
-
 /**
  * @author: aoyekanmi
  * @date: 05/03/2022
